@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hanzaladogar51-dotcom.github.io/home-fixes/sitemap.xml
